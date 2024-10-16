@@ -1,4 +1,4 @@
-# Git 1 - lecture 6
+# Lecture 6 - Git 1
 
 ### git is a distributed version control flatform for programmers
 

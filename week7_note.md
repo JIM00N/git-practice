@@ -1,4 +1,4 @@
-# Week 7 - git 2
+# Lecture 7 - Git 2
 
 ```
 $ git init
